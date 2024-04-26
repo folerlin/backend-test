@@ -14,4 +14,6 @@ List of items
 
 <img src="https://miro.medium.com/v2/resize:fit:544/1*FylSvhbt-D9EzOWpQ6lKrA.png" width="400" height="200">
 
+The base project is created based on .NET 8 WEB API
+
 All the best!!!
