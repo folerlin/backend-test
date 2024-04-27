@@ -17,4 +17,4 @@ List of items
 
 The base project is created based on .NET 8 WEB API
 
-All the best!!!
+All the best!!! trying is better than nothing.
